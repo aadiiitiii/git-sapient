@@ -1,0 +1,126 @@
+    1  git -v
+    2  git --version 
+    3  ls
+    4  mkdir git-session
+    5  cd git-session/
+    6  ls -all
+    7  git init
+    8  ls -all
+    9  git config --global user.name aadiiitiii
+   10  git config --global 
+   11  git config --global LIST
+   12  git config --global list
+   13  git config --global --list
+   14  git config --global user.email adijoshi2@publicisgroupe.net
+   15  git config --global --list
+   16  touch A.txt
+   17  ls
+   18  git status
+   19  git add A.txt 
+   20  git status
+   21  git commit -first
+   22  git commit -m "first commit"
+   23  git status
+   24  touch B.txt
+   25  git add
+   26  git add B.txt 
+   27  git status
+   28  git commit -m "second commit"
+   29  git log
+   30  ls
+   31  cd .git/
+   32  ls
+   33  cd objects/
+   34  ls
+   35  cd 0c/
+   36  ls
+   37  cat 09269abd6bed3efcc04b672b3c47e8a44188cb 
+   38  cd
+   39  cd git-session/
+   40  vi A.txt 
+   41  cd git-session/
+   42  git status
+   43  git add A.txt 
+   44  git commit -m "third commit"
+   45  git status
+   46  git status
+   47  git checkout -- B.txt
+   48  git status
+   49  history
+   50  git log --oneline 
+   51  git checkout 50ff827
+   52  git checkout 0c09269
+   53  git log --oneline 
+   54   git checkout master 
+   55  git log --oneline 
+   56  git status
+   57  cd
+   58  git remote add origin https://github.com/aadiiitiii/git-sapient.git
+   59  git remote add origin https://github.com/aadiiitiii/git-sapient.git
+   60  cd git-sapient/
+   61  git remote add origin https://github.com/aadiiitiii/git-sapient.git
+   62  git config --global user.email aditisjoshi14@gmail.com
+   63  git config --global list
+   64  git config --global --list
+   65  git remote add origin https://github.com/aadiiitiii/git-sapient.git
+   66  git init
+   67  git remote add origin https://github.com/aadiiitiii/git-sapient.git
+   68  cd
+   69  cd git-session/
+   70  git remote add origin https://github.com/aadiiitiii/git-sapient.git
+   71  cd
+   72  cd git-sapient/
+   73  git init
+   74  history
+   75   git config --global user.name aadiiitiii
+   76   git config --global user.email aditisjoshi14@gmail.com
+   77  git remote add origin https://github.com/aadiiitiii/git-sapient.git
+   78  git --version 
+   79  which git
+   80  cd git-sapient/
+   81  ls
+   82  git remote add origin https://github.com/aadiiitiii/git-sapient.git
+   83  which git
+   84  git push -u origin master
+   85   git config --global user.name aadiiitiii
+   86   git config --global user.email aditisjoshi14@gmail.com
+   87  git remote add origin https://github.com/aadiiitiii/git-sapient.git
+   88  git push -u origin master
+   89  git commit "first commit"
+   90  git add
+   91  git add *
+   92  git commit "first commit"
+   93  ls
+   94  git add a.txt 
+   95  git commit -m "first commit"
+   96  git log
+   97  git status
+   98  git push -u origin master
+   99  ls
+  100  ls -all
+  101  cd ~/.ssh
+  102  notepad id_rsa.pub
+  103  ~/.ssh
+  104  ssh-keygen.exe
+  105  ~/.ssh
+  106  cd ~/.ssh
+  107  notepad id_rsa.pub 
+  108  git push
+  109  cd
+  110  cd git-sapient/
+  111  git push
+  112  git status
+  113  git add *
+  114  git status
+  115  git push
+  116  git status
+  117  git status
+  118  git add *
+  119  git push
+  120  git status
+  121  git commit "second commit"
+  122  git add *
+  123  git commit "second commit"
+  124  git commit -m "second commit"
+  125  git push -u origin master
+  126  history>commands.txt
