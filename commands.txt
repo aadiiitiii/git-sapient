@@ -124,3 +124,7 @@
   124  git commit -m "second commit"
   125  git push -u origin master
   126  history>commands.txt
+  127  git add *
+  128  git commit -m "commands commit"
+  129  git push -u origin master
+  130  history>commands.txt
