@@ -90,3 +90,30 @@
    90  git branch
    91  git log --oneline
    92  history>commands_day2.txt
+   93  git add .
+   94  git commit -m "commands commit"
+   95  git push
+   96  git status
+   97  git checkout -b joshi
+   98  git status
+   99  git branch
+  100  touch branch1/txt
+  101  touch branch2.txt
+  102  touch branch1.txt
+  103  git branch
+  104  git add .
+  105  git commit -m "branch commit"
+  106  git pusj
+  107  git push
+  108  git push --set-upstream origin joshi
+  109  git status
+  110  git checkout master
+  111  git status
+  112  git branch -d joshi
+  113  git merge
+  114  git merge joshi
+  115  git merge origin/joshi
+  116  git status
+  117  git push origin master
+  118  history
+  119  history>commands_day2.txt
