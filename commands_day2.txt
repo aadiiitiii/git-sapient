@@ -48,8 +48,6 @@
    48  git push
    49  ls
    50  history>commands_day2.txt
-<<<<<<< HEAD
-=======
    51  git status
    52  git add .
    53  git commit -m "second commit"
@@ -64,4 +62,31 @@
    62  git push
    63   git push --set-upstream origin aditi
    64  history>commands_day2.txt
->>>>>>> aditi
+   65  git checkout master
+   66  git add .
+   67  git commit -m "commit on branch"
+   68  git push
+   69  git checkout master
+   70  git status
+   71  git log --oneline
+   72  git checkout aditi 
+   73  git log --oneline
+   74  git checkout master
+   75  git branch
+   76  git merge aditi
+   77  git add .
+   78  git commit -m "commit of branch"
+   79  git push
+   80  git merge aditi
+   81  git checkout aditi
+   82  git pull
+   83  git pull master
+   84  git status
+   85  git branch
+   86  git checkout master
+   87  git branch -d aditi
+   88  git branch
+   89  git branch -d aditi
+   90  git branch
+   91  git log --oneline
+   92  history>commands_day2.txt
