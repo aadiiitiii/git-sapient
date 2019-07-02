@@ -48,3 +48,20 @@
    48  git push
    49  ls
    50  history>commands_day2.txt
+<<<<<<< HEAD
+=======
+   51  git status
+   52  git add .
+   53  git commit -m "second commit"
+   54  git push
+   55  git touch c.txt
+   56  touch c.txt
+   57  git status
+   58  git checkout aditi 
+   59  ls
+   60  git add .
+   61  git commit -m "commit on branch"
+   62  git push
+   63   git push --set-upstream origin aditi
+   64  history>commands_day2.txt
+>>>>>>> aditi
