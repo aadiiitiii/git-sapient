@@ -27,3 +27,38 @@
    27  git log --oneline
    28  history
    29  history>commands_day2.txt
+   30  git branch
+   31  git branch aditi
+   32  git checkout aditi
+   33  git checkout
+   34  git branch
+   35  git branch
+   36  git log --oneline
+   37  git status
+   38  git add .
+   39  git status
+   40  git commit -m "second commit"
+   41  git push
+   42  git checkout
+   43  git branch
+   44  git checkout master
+   45  git status
+   46  git add .
+   47  git commit -m "second commit"
+   48  git push
+   49  ls
+   50  history>commands_day2.txt
+   51  git status
+   52  git add .
+   53  git commit -m "second commit"
+   54  git push
+   55  git touch c.txt
+   56  touch c.txt
+   57  git status
+   58  git checkout aditi 
+   59  ls
+   60  git add .
+   61  git commit -m "commit on branch"
+   62  git push
+   63   git push --set-upstream origin aditi
+   64  history>commands_day2.txt
