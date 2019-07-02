@@ -202,3 +202,10 @@
   202  git branch
   203  git log --oneline
   204  history>commands_day2.txt
+  205  git add .
+  206  git commit -m "commands commit"
+  207  git push
+  208  git pull
+  209  git push
+  210  history
+  211  history>commands_day2.txt
