@@ -151,3 +151,54 @@
   151  git branch
   152  git branch -a
   153  history>commands_day2.txt
+  154  git add .
+  155  git commit -m "commands commit"
+  156  git push
+  157  git pull
+  158  git push
+  159  git branch -a
+  160  git pull origin master
+  161  git remote prune origin
+  162  git branch -a
+  163  git branch
+  164  git branch branch1
+  165  git branch
+  166  git checkout branch1
+  167  git add branch1.txt 
+  168  git pull
+  169  git commit -m "branch1"
+  170  git push
+  171   git push --set-upstream origin branch1
+  172  git checkout master
+  173  git branch
+  174  git checkout -b branch1
+  175  git branch -d branch1
+  176  git branch -d branch3
+  177  git branch
+  178  git checkout -b branch1
+  179  git branch
+  180  touch branch1_file.txt
+  181  git add branch1_file.txt 
+  182  git commit -m "branch1"
+  183  git push
+  184   git push --set-upstream origin branch1
+  185  history
+  186  git checkout -b branch2
+  187  touch branch2_file1.txt
+  188  touch branch2_file2.txt
+  189  git add .
+  190  git commit -m "branch2"
+  191  git push
+  192   git push --set-upstream origin branch1
+  193   git push --set-upstream origin branch2
+  194  git checkout master
+  195  git merge branch1
+  196  git log --oneline
+  197  git checkout branch2
+  198  git log --oneline
+  199  git rebase master
+  200  git checkout master
+  201  git merge branch2
+  202  git branch
+  203  git log --oneline
+  204  history>commands_day2.txt
