@@ -117,3 +117,37 @@
   117  git push origin master
   118  history
   119  history>commands_day2.txt
+  120  git add .
+  121  git commit -m "commands commit"
+  122  git push
+  123  git pull origin
+  124  git branch
+  125  git pull origin master
+  126  git branch
+  127  git checkout branch3
+  128  git checkout aditi
+  129  git checkout joshi
+  130  git checkout master
+  131  git branch
+  132  git checkout branch3
+  133  touch branch3file.txt
+  134  git add .
+  135  git commit -m "branch3 commit"
+  136  git push
+  137  git push origin branch3
+  138  touch branch3.txt
+  139  git add .
+  140  git commit -m "branch3 commit"
+  141  git push
+  142  git push origin branch3
+  143  git pull
+  144  touch branch3.txt
+  145  git add .
+  146  git commit -m "branch3 commit"
+  147  git push origin branch3
+  148  git branch
+  149  git checkout master
+  150  git remote prune origin
+  151  git branch
+  152  git branch -a
+  153  history>commands_day2.txt
