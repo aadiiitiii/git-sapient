@@ -1,0 +1,50 @@
+    1  mkdir git-sapient
+    2  git init
+    3  git branch
+    4  git status
+    5  cd git-sapient/
+    6  git init
+    7  git branch
+    8  git status
+    9  touch a.txt
+   10  touch b.txt
+   11  git add .
+   12  git push
+   13  cd
+   14  git clone https://github.com/aadiiitiii/git-sapient.git
+   15  git clone https://github.com/aadiiitiii/git-sapient.git
+   16  cd git-sapient/
+   17  git branch
+   18  git branch aditi
+   19  git branch
+   20  git log
+   21  git log oneline
+   22  git log --oneline
+   23  git branch
+   24  git checkout
+   25  git branch
+   26  git checkout aditi
+   27  git log --oneline
+   28  history
+   29  history>commands_day2.txt
+   30  git branch
+   31  git branch aditi
+   32  git checkout aditi
+   33  git checkout
+   34  git branch
+   35  git branch
+   36  git log --oneline
+   37  git status
+   38  git add .
+   39  git status
+   40  git commit -m "second commit"
+   41  git push
+   42  git checkout
+   43  git branch
+   44  git checkout master
+   45  git status
+   46  git add .
+   47  git commit -m "second commit"
+   48  git push
+   49  ls
+   50  history>commands_day2.txt
